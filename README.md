@@ -54,6 +54,4 @@ It transforms raw transactions into actionable insights through data cleaning, a
 - **Top Coffee Types by Sales:** Excelsa, Liberica, Arabica, Robusta
 - **Best Year:** 2021
 
-## Visuals
-![Coffee Sales Dashboard] (https://github.com/briannameme17/Brianna-Meme-s_Dataportfolio/commit/846d51912c9f5a1a43cbc37e12d6e92454ba2269#diff-433c63e0174d838b8dc196dd2ad4a7f88ad3e7c0641debd36615abb0ffa9a441)
 

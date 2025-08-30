@@ -43,9 +43,7 @@ It transforms raw transactions into actionable insights through data cleaning, a
 
 ## Tools Used
 - **Excel** – data handling and source-of-truth file
-- **Python (pandas, matplotlib)** – analysis and charting
-- **(Optional) Power BI / Tableau** – interactive dashboards
-
+  
 ---
 
 ## Key Insights

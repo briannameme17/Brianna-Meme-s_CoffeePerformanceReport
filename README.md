@@ -55,5 +55,4 @@ It transforms raw transactions into actionable insights through data cleaning, a
 - **Best Year:** 2021
 
 ## Visuals
-![Coffee Sales Dashboard](Screenshot 2025-08-30 101211.png)
 ![Coffee Sales Dashboard](Images/Screenshot 2025-08-30 101211.png)

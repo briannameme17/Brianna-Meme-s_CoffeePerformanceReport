@@ -42,7 +42,11 @@ It transforms raw transactions into actionable insights through data cleaning, a
 ---
 
 ## Tools Used
-- **Excel** – data handling and source-of-truth file
+- **Excel** – Primary tool for analysis and reporting.  
+- **Pivot Tables & Pivot Charts** – Summarizing and visualizing sales trends.  
+- **Formulas** – VLOOKUP, INDEX-MATCH, SUM, AVERAGE, IF for calculations.  
+- **Conditional Formatting** – To highlight KPIs and performance shifts.  
+- **Slicers & Filters** – For interactive data exploration.  
   
 ---
 
